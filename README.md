@@ -1,6 +1,5 @@
-# [Front-end SPA PUC-Minas]
-
-Exemplo de arquitetura front-end com SPA usando react.
+# [Front-end SPA React]
+Exemplo de arquitetura front-end com SPA usando react, no módulo Arquitetura de Front-End (2022) no curso de pós-graduação Arquitetura de Software Distribuído Latu Sensu - PUC MINAS
 
 # API Movies
 API movies para gerar os dados de filmes para as páginas
